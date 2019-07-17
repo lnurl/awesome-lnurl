@@ -35,7 +35,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [LNBIG](https://lnbig.com/) &ndash; Get free inbound channels on your mobile wallet from this mysterious entity.
 * [Bitrefill's Thor](https://www.bitrefill.com/thor) &ndash; Buy a reliable incoming channel from this super liquid node, or get a turbo channel from which you can spend immediately.
 
-### lnurl-login
+### lnurl-auth
 
 * [Lightning Charger](https://charger.alhur.es/) &ndash; Identify yourself before creating a transaction then identify again when redeeming.
 
@@ -58,17 +58,17 @@ Wallets
 
 _Some wallets that support **lnurl**_.
 
-* [Bitcoin Lightning Wallet](https://lightning-wallet.com/) &ndash; BLW supports _lnurl-channel_, _lnurl-login_ and _lnurl-withdraw_.
+* [Bitcoin Lightning Wallet](https://lightning-wallet.com/) &ndash; BLW supports _lnurl-channel_, _lnurl-auth_ and _lnurl-withdraw_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
 * [@lntxbot](https://t.me/lntxbot) &ndash; The Telegram-based wallet supports _lnurl-withdraw_.
-* [c-lightning](https://github.com/ElementsProject/lightning/) with the [`lnurl` plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl) &ndash; RPC methods that perform the _lnurl-channel_, _lnurl-login_ and _lnurl-withdraw_ flows.
+* [c-lightning](https://github.com/ElementsProject/lightning/) with the [`lnurl` plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl) &ndash; RPC methods that perform the _lnurl-channel_, _lnurl-auth_ and _lnurl-withdraw_ flows.
 
 Libraries
 ------------------------------------------------------------------------
 
 _Integrate **lnurl** in projects and services_.
 
-* [go-lnurl](https://github.com/fiatjaf/go-lnurl) &ndash; lnurl helper structs, encode/decode, verify login signatures, misc helpers for both wallet and server sides of the protocol.
+* [go-lnurl](https://github.com/fiatjaf/go-lnurl) &ndash; lnurl helper structs, encode/decode, verify signatures, misc helpers for both wallet and server sides of the protocol.
 * [php-lnurl](https://github.com/tkijewski/php-lnurl) &ndash; Easy PHP encoding and decoding of bech32 lnurls.
 
 
