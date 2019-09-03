@@ -22,6 +22,7 @@ _Readings about **lnurl**_.
 
 * [The spec](https://github.com/btcontract/lnurl-rfc/blob/master/spec.md) &ndash; The confusing, but honest, **lnurl** spec, by [Anton Kumaigorodski](https://twitter.com/akumaigorodski), the enigmatic one-man coding machine.
 * [An introduction to lnurl](https://telegra.ph/lnurl-a-protocol-for-seamless-interaction-between-services-and-Lightning-wallets-08-19) &ndash; An article introducing the various types of **lnurl**'s, by [fiatjaf](https://twitter.com/fiatjaf).
+* [lnurl-withdraw flow](https://gist.githubusercontent.com/fiatjaf/468d8ec581bc498664cafeef755c02ff/raw/c234d267b87772d71f9654dded53397e381a2db5/lnurl-withdraw-flow.txt) &ndash; One of those incomprehensible program action-data flows detailing how lnurl-withdraw takes place.
 
 
 Services
