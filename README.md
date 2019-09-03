@@ -37,7 +37,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-login
 
-* [Lightning Charger](https://charger.alhur.es/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
+* [Lightning Charger](https://charger.alhur.es/) &ndash; Identify yourself before creating a transaction then identify again when redeeming.
 
 ### lnurl-withdraw
 
