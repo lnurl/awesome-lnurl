@@ -75,7 +75,7 @@ Tools
 
 _Stuff for using and playing with **lnurl**_.
 
-* []() &ndash;
+* [lnurl playground](https://lnurl.bigsun.xyz/) &ndash; A simple tool that allows you to try and see how your wallet interacts with an **lnurl** server.
 
 Contribute
 ------------------------------------------------------------------------
