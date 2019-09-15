@@ -1,4 +1,4 @@
-Awesome lnurl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://cdn.jsdelivr.net/gh/btcontract/lnwallet@v0.3-129/app/src/main/res/drawable-xxhdpi/icon_bolt_shape.png" width="200" align="right" alt="./jq">
+Awesome lnurl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://i.imgur.com/wNtVhj3.png" width="200" align="right" alt="./jq">
 ========================================================================
 
 A curated list of awesome things related to the **lnurl** super-protocol for interaction between [Lightning](https://github.com/lightningnetwork/lightning-rfc) wallets and third-party services.
@@ -46,6 +46,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Paywall](https://paywall.link) &ndash; The Lightning Paywall Generator allows you to withdraw your earnings with **lnurl**.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 * [Lightning Charger](https://charger.alhur.es/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
+* [@arcbtc](https://github.com/arcbtc)'s [Physical Faucet](https://twitter.com/BTCSocialist/status/1164689386149154816) &ndash; Spits out 100 satoshis every 30 minutes.
 
 ### lnurl-pay
 
