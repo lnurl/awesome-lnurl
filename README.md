@@ -47,6 +47,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 * [Lightning Charger](https://charger.alhur.es/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
 * [@arcbtc](https://github.com/arcbtc)'s [Physical Faucet](https://twitter.com/BTCSocialist/status/1164689386149154816) &ndash; Spits out 100 satoshis every 30 minutes.
+* [@arcbtc](https://github.com/arcbtc)'s [TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DYI ATM machine that eats coins and spits out sats.
 
 ### lnurl-pay
 
