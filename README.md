@@ -44,10 +44,11 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Kriptode](https://kriptode.com/) &ndash; Use **lnurl** to grab your earnings from trading sats for likes, answering polls or making bets.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Gifts are redeemable with **lnurl**; you can even print your gifts and
 * [Paywall](https://paywall.link) &ndash; The Lightning Paywall Generator allows you to withdraw your earnings with **lnurl**.
-* [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
-* [Lightning Charger](https://charger.alhur.es/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
 * [@arcbtc](https://github.com/arcbtc)'s [Physical Faucet](https://twitter.com/BTCSocialist/status/1164689386149154816) &ndash; Spits out 100 satoshis every 30 minutes.
+* [Lightning Charger](https://charger.alhur.es/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
+* [Microbet](https://microbet.fun/) &ndash; The smallest betting site allows you to withdraw your profits with **lnurl**.
 * [@arcbtc](https://github.com/arcbtc)'s [TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DYI ATM machine that eats coins and spits out sats.
+* [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 
 ### lnurl-pay
 
