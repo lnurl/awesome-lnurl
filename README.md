@@ -45,7 +45,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Gifts are redeemable with **lnurl**; you can even print your gifts and
 * [Paywall](https://paywall.link) &ndash; The Lightning Paywall Generator allows you to withdraw your earnings with **lnurl**.
 * [@arcbtc](https://github.com/arcbtc)'s [Physical Faucet](https://twitter.com/BTCSocialist/status/1164689386149154816) &ndash; Spits out 100 satoshis every 30 minutes.
-* [Lightning Charger](https://charger.alhur.es/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
+* [Lightning Charger](https://charger.bigsun.xyz/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
 * [Microbet](https://microbet.fun/) &ndash; The smallest betting site allows you to withdraw your profits with **lnurl**.
 * [@arcbtc](https://github.com/arcbtc)'s [TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DYI ATM machine that eats coins and spits out sats.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
@@ -62,7 +62,8 @@ _Some wallets that support **lnurl**_.
 
 * [Bitcoin Lightning Wallet](https://lightning-wallet.com/) &ndash; BLW supports _lnurl-channel_, _lnurl-auth_ and _lnurl-withdraw_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
-* [@lntxbot](https://t.me/lntxbot) &ndash; The Telegram-based wallet supports _lnurl-withdraw_.
+* [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_.
+* [@lntxbot](https://t.me/lntxbot) &ndash; The Telegram-based wallet supports _lnurl-withdraw_ and _lnurl-auth_.
 * [c-lightning](https://github.com/ElementsProject/lightning/) with the [`lnurl` plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl) &ndash; RPC methods that perform the _lnurl-channel_, _lnurl-auth_ and _lnurl-withdraw_ flows.
 
 Libraries
