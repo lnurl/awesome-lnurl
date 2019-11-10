@@ -37,10 +37,13 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-auth
 
+* [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
 * [Lightning Charger](https://charger.alhur.es/) &ndash; Identify yourself before creating a transaction then identify again when redeeming.
 
 ### lnurl-withdraw
 
+* [Sinclair Faucet](https://lnurl.com/faucet/) &ndash; A faucet generator that creates printable **lnurl** codes withdrawable multiple times.
+* [Etleneum](https://etleneum.com/) &ndash; The only withdraw method is using **lnurl**.
 * [Kriptode](https://kriptode.com/) &ndash; Use **lnurl** to grab your earnings from trading sats for likes, answering polls or making bets.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Gifts are redeemable with **lnurl**; you can even print your gifts and
 * [Paywall](https://paywall.link) &ndash; The Lightning Paywall Generator allows you to withdraw your earnings with **lnurl**.
@@ -71,8 +74,9 @@ Libraries
 
 _Integrate **lnurl** in projects and services_.
 
-* [go-lnurl](https://github.com/fiatjaf/go-lnurl) &ndash; lnurl helper structs, encode/decode, verify signatures, misc helpers for both wallet and server sides of the protocol.
-* [php-lnurl](https://github.com/tkijewski/php-lnurl) &ndash; Easy PHP encoding and decoding of bech32 lnurls.
+* [go-lnurl](https://github.com/fiatjaf/go-lnurl) &ndash; **lnurl** helper structs, encode/decode, verify signatures, misc helpers for both wallet and server sides of the protocol.
+* [lnurl-node](https://github.com/chill117/lnurl-node) &ndash; CLI tool and **lnurl** server in Node.js.
+* [php-lnurl](https://github.com/tkijewski/php-lnurl) &ndash; Easy PHP encoding and decoding of bech32 **lnurl**s.
 
 
 Tools
@@ -80,6 +84,7 @@ Tools
 
 _Stuff for using and playing with **lnurl**_.
 
+* [SeedAuth](https://seedauth.etleneum.com/) &ndash; A service that allows you to login to **lnurl-auth** services using just a username and password.
 * [lnurl playground](https://lnurl.bigsun.xyz/) &ndash; A simple tool that allows you to try and see how your wallet interacts with an **lnurl** server.
 
 Contribute
