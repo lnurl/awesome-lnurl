@@ -57,7 +57,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-pay
 
-* [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian, phones, send money to Russian cards and recharge Stripe globally.
+* [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian, phones, send money to Russian cards and recharge Skype globally.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
 
 
@@ -71,6 +71,7 @@ _Some wallets that support **lnurl**_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
 * [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
 * [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_.
+* [Zeus](https://zeusln.app/) &ndash; supports _lnurl-withdraw_.
 * [c-lightning](https://github.com/ElementsProject/lightning/) with the [`lnurl` plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl) &ndash; RPC methods that perform the _lnurl-channel_, _lnurl-auth_ and _lnurl-withdraw_ flows.
 
 Libraries
@@ -82,7 +83,8 @@ _Integrate **lnurl** in projects and services_.
 * [lnurl-node](https://github.com/chill117/lnurl-node) &ndash; CLI tool and **lnurl** server in Node.js.
 * [js-lnurl](https://github.com/fiatjaf/js-lnurl) &ndash; Tools for adding **lnurl** support in a JavaScript wallet.
 * [php-lnurl](https://github.com/tkijewski/php-lnurl) &ndash; Easy PHP encoding and decoding of bech32 **lnurl**s.
-* [lnurl](https://github.com/jogc/lnurl) &ndash; Simple and robust **lnurl** encoding/decoding for Python.
+* [python-lnurl](https://github.com/python-ln/lnurl) &ndash; Tools for dealing with **lnurl** in Python.
+* [lnurl-rust](https://github.com/edouardparis/rust-lnurl) &ndash; Rust helpers for **lnurl**.
 
 
 Tools
