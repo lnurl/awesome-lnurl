@@ -82,7 +82,7 @@ _Integrate **lnurl** in projects and services_.
 * [lnurl-node](https://github.com/chill117/lnurl-node) &ndash; CLI tool and **lnurl** server in Node.js.
 * [js-lnurl](https://github.com/fiatjaf/js-lnurl) &ndash; Tools for adding **lnurl** support in a JavaScript wallet.
 * [php-lnurl](https://github.com/tkijewski/php-lnurl) &ndash; Easy PHP encoding and decoding of bech32 **lnurl**s.
-* [lnurl](https://github.com/jogc/lnurl) &ndash; Simple and robust **lnurl** encoding/decoding for Python.
+* [lnurl](https://github.com/python-ln/lnurl) &ndash; **lnurl** implementation for Python.
 
 
 Tools
