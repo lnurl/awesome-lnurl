@@ -21,6 +21,7 @@ Documentation
 _Readings about **lnurl**_.
 
 * [The spec](https://github.com/btcontract/lnurl-rfc/blob/master/spec.md) &ndash; The confusing, but honest, **lnurl** spec, by [Anton Kumaigorodski](https://twitter.com/akumaigorodski), the enigmatic one-man coding machine.
+* [lnurl-pay for everything](https://xn--57h.bigsun.xyz/lnurl-pay-for-everything.html) &ndash; an article about how **lnurl-pay** can bring China's QR frenzy to the rest of the world in a non-socialist manner.
 * [lnurl-withdraw flow](https://⚡️.bigsun.xyz/lnurl-withdraw-flow.txt) &ndash; One of those incomprehensible program action-data flows detailing how **lnurl-withdraw** takes place.
 * [lnurl-pay flow](https://⚡️.bigsun.xyz/lnurl-pay-flow.txt) &ndash; Same as above, but for **lnurl-pay**.
 
@@ -30,35 +31,31 @@ Services
 
 _Apps and services supporting **lnurl** in the wild_.
 
-### lnurl-channel
+### lnurl-pay
 
-* [LNBIG](https://lnbig.com/) &ndash; Get free inbound channels on your mobile wallet from this mysterious entity.
-* [Bitrefill's Thor](https://www.bitrefill.com/thor) &ndash; Buy a reliable incoming channel from this super liquid node, or get a turbo channel from which you can spend immediately.
+* [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian, phones, send money to Russian cards and recharge Skype globally.
+* [tip.bigsun.xyz](tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
+* [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
 
 ### lnurl-auth
 
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
-* [Lightning Charger](https://charger.alhur.es/) &ndash; Identify yourself before creating a transaction then identify again when redeeming.
 
 ### lnurl-withdraw
 
-* [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
+* A big collection of services allow you to withdraw your balances with **lnurl**: [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Microbet](https://microbet.fun/), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/),
+* [Lightning Gifts](https://lightning.gifts/) &ndash; Gifts are redeemable with **lnurl**; you can even print your gifts and people can scan them without visiting the site!
+* [lnpay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
 * [@arcbtc's TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DIY ATM machine that eats coins and spits out sats.
 * [Sinclair Faucet](https://lnurl.com/faucet/) &ndash; A faucet generator that creates printable **lnurl** codes withdrawable multiple times.
-* [Lightning Gifts](https://lightning.gifts/) &ndash; Gifts are redeemable with **lnurl**; you can even print your gifts and
-* [Etleneum](https://etleneum.com/) &ndash; The only withdraw method is using **lnurl**.
-* [Kriptode](https://kriptode.com/) &ndash; Use **lnurl** to grab your earnings from trading sats for likes, answering polls or making bets.
+* [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
 * [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
-* [Paywall](https://paywall.link) &ndash; The Lightning Paywall Generator allows you to withdraw your earnings with **lnurl**.
-* [@arcbtc's physical faucet](https://twitter.com/BTCSocialist/status/1164689386149154816) &ndash; Spits out 100 satoshis every 30 minutes.
-* [Lightning Charger](https://charger.bigsun.xyz/) &ndash; Send your on-chain bitcoins to your mobile wallet as an incoming transaction.
-* [Microbet](https://microbet.fun/) &ndash; The smallest betting site allows you to withdraw your profits with **lnurl**.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 
-### lnurl-pay
+### lnurl-channel
 
-* [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian, phones, send money to Russian cards and recharge Skype globally.
-* [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
+* [LNBIG](https://lnbig.com/) &ndash; Get free inbound channels on your mobile wallet from this mysterious entity.
+* [Bitrefill's Thor](https://www.bitrefill.com/thor) &ndash; Buy a reliable incoming channel from this super liquid node, or get a turbo channel from which you can spend immediately.
 
 
 Wallets
@@ -68,10 +65,11 @@ _Some wallets that support **lnurl**_.
 
 * [Bitcoin Lightning Wallet](https://lightning-wallet.com/) &ndash; BLW supports _lnurl-pay_, _lnurl-withdraw_, _lnurl-auth_ and  _lnurl-channel_.
 * [@lntxbot](https://t.me/lntxbot) &ndash; supports _lnurl-pay_, _lnurl-withdraw_ and _lnurl-auth_.
+* [Zeus Spark](https://github.com/fiatjaf/zeus) &ndash; supports _lnurl-pay_ and _lnurl-withdraw_.
+* [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
 * [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
-* [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_.
-* [Zeus](https://zeusln.app/) &ndash; supports _lnurl-withdraw_.
+* [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_ and _lnurl-channel_.
 * [c-lightning](https://github.com/ElementsProject/lightning/) with the [`lnurl` plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl) &ndash; RPC methods that perform the _lnurl-channel_, _lnurl-auth_ and _lnurl-withdraw_ flows.
 
 Libraries
