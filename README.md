@@ -43,7 +43,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-withdraw
 
-* A big collection of services allow you to withdraw your balances with **lnurl**: [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Microbet](https://microbet.fun/), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/),
+* A big collection of services allow you to withdraw your balances with **lnurl**: [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Microbet](https://microbet.fun/), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [https://bc.game/](bc.game).
 * [GraafOne](https://www.graaf.one/) &ndash; Allows you to buy Bitcoin in Canada and withdraw directly to your **lnurl**-powered wallet.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Gifts are redeemable with **lnurl**; you can even print your gifts and people can scan them without visiting the site!
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
