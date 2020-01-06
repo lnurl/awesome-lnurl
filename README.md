@@ -66,6 +66,7 @@ _Some wallets that support **lnurl**_.
 
 * [Bitcoin Lightning Wallet](https://lightning-wallet.com/) &ndash; BLW supports _lnurl-pay_, _lnurl-withdraw_, _lnurl-auth_ and  _lnurl-channel_.
 * [@lntxbot](https://t.me/lntxbot) &ndash; supports _lnurl-pay_, _lnurl-withdraw_ and _lnurl-auth_.
+* [Zeus](https://github.com/ZeusLN/zeus) &ndash; supports _lnurl-pay_ and _lnurl-withdraw_.
 * [Zeus Spark](https://github.com/fiatjaf/zeus) &ndash; supports _lnurl-pay_ and _lnurl-withdraw_.
 * [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
