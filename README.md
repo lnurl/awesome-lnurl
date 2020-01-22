@@ -34,6 +34,7 @@ _Apps and services supporting **lnurl** in the wild_.
 ### lnurl-pay
 
 * [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian, phones, send money to Russian cards and recharge Skype globally.
+* [lnurlpayserver](https://github.com/fiatjaf/lnurlpayserver) &ndash; An easy to host server that talks to your lnd, Spark or @lntxbot nodes and allows you to generate and serve **lnurls** and manage items in a physical shop.
 * [tip.bigsun.xyz](tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
 
@@ -67,7 +68,6 @@ _Some wallets that support **lnurl**_.
 * [Bitcoin Lightning Wallet](https://lightning-wallet.com/) &ndash; BLW supports _lnurl-pay_, _lnurl-withdraw_, _lnurl-auth_ and  _lnurl-channel_.
 * [@lntxbot](https://t.me/lntxbot) &ndash; supports _lnurl-pay_, _lnurl-withdraw_ and _lnurl-auth_.
 * [Zeus](https://github.com/ZeusLN/zeus) &ndash; supports _lnurl-pay_ and _lnurl-withdraw_.
-* [Zeus Spark](https://github.com/fiatjaf/zeus) &ndash; supports _lnurl-pay_ and _lnurl-withdraw_.
 * [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
 * [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
