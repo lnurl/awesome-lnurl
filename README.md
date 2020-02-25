@@ -41,6 +41,7 @@ _Apps and services supporting **lnurl** in the wild_.
 ### lnurl-auth
 
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
+* [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with lnurl Instead of manually saving your key.
 
 ### lnurl-withdraw
 
