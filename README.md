@@ -35,7 +35,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian, phones, send money to Russian cards and recharge Skype globally.
 * [lnurlpayserver](https://github.com/fiatjaf/lnurlpayserver) &ndash; An easy to host server that talks to your lnd, Spark or @lntxbot nodes and allows you to generate and serve **lnurls** and manage items in a physical shop.
-* [tip.bigsun.xyz](tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
+* [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
 
 ### lnurl-auth
