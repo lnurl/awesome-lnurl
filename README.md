@@ -76,6 +76,7 @@ _Some wallets that support **lnurl**_.
 * [Zeus](https://github.com/ZeusLN/zeus) &ndash; supports _lnurl-pay_ and _lnurl-withdraw_.
 * [Shockwallet](https://shockwallet.app/#features) &ndash; supports _lnurl-pay_, _lnurl-withdraw_ and _lnurl-channel_.
 * [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
+* [Phoenix](https://phoenix.acinq.co/) &ndash; supports _lnurl-withdraw_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
 * [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
 * [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_ and _lnurl-channel_.
