@@ -21,9 +21,10 @@ Documentation
 _Readings about **lnurl**_.
 
 * [The spec](https://github.com/btcontract/lnurl-rfc) &ndash; The confusing, but honest, **lnurl** spec, by [Anton Kumaigorodski](https://twitter.com/akumaigorodski), the enigmatic one-man coding machine.
-* [lnurl-pay for everything](https://xn--57h.bigsun.xyz/lnurl-pay-for-everything.html) &ndash; an article about how **lnurl-pay** can bring China's QR frenzy to the rest of the world in a non-centralised manner.
+* [lnurl-auth explained](https://xn--57h.bigsun.xyz/lnurl-auth.html) &ndash; Everything you always wanted
 * [lnurl-withdraw flow](https://⚡️.bigsun.xyz/lnurl-withdraw-flow.txt) &ndash; One of those incomprehensible program action-data flows detailing how **lnurl-withdraw** takes place.
 * [lnurl-pay flow](https://⚡️.bigsun.xyz/lnurl-pay-flow.txt) &ndash; Same as above, but for **lnurl-pay**.
+* [lnurl-pay for everything](https://xn--57h.bigsun.xyz/lnurl-pay-for-everything.html) &ndash; an article about how **lnurl-pay** can bring China's QR frenzy to the rest of the world in a non-centralised manner.
 
 
 Services
@@ -33,10 +34,12 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-pay
 
-* [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian, phones, send money to Russian cards and recharge Skype globally.
-* [lnurlpayserver](https://github.com/fiatjaf/lnurlpayserver) &ndash; An easy to host server that talks to your lnd, Spark or @lntxbot nodes and allows you to generate and serve **lnurls** and manage items in a physical shop.
+* [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian transport tickets, phones, send money to Russian debit cards and recharge Skype globally.
+* [Lightning Gifts](https://lightning.gifts/) &ndash; Create gifts without leaving your wallet by playing and replaying the basic gift **lnurl**.
+* [Etleneum](https://etleneum.com/) &ndash; For all reusable method calls, with or without a fixed number of satoshis in them, you can grab an **lnurl** at the main contract page and replay it from your wallet later.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
+* [lnurlpayserver](https://github.com/fiatjaf/lnurlpayserver) &ndash; An easy to host server that talks to your lnd, Spark or @lntxbot nodes and allows you to generate and serve **lnurls** and manage items in a physical shop.
 
 ### lnurl-auth
 
@@ -54,11 +57,13 @@ _Apps and services supporting **lnurl** in the wild_.
 * [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
 * [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
+* [LNURLProxyAPI](https://github.com/21isenough/LNURLProxyAPI) &ndash; Allows you to issue noncustodial **lnurls** from your own home node, wait until someone tries to redeem them and pay the invoice. Like lightning.gifts, but noncustodial.
 
 ### lnurl-channel
 
 * [LNBIG](https://lnbig.com/) &ndash; Get free inbound channels on your mobile wallet from this mysterious entity.
 * [Bitrefill's Thor](https://www.bitrefill.com/thor) &ndash; Buy a reliable incoming channel from this super liquid node, or get a turbo channel from which you can spend immediately.
+* [lnch-vekslak](https://github.com/Kixunil/lnch-vekslak) &ndash; Your self-hosted Thor. Allows you to sell or open channels with people in the streets (make sure to read and edit the code before using or you'll pay a high price).
 
 
 Wallets
@@ -98,7 +103,7 @@ _Stuff for using and playing with **lnurl**_.
 * [lnurl codec](https://lnurl.bigsun.xyz/codec) &ndash; Easily encode and decode **lnurls**.
 * [SeedAuth](https://seedauth.etleneum.com/) &ndash; A service that allows you to login to **lnurl-auth** services using just a username and password.
 * [lnurl playground](https://lnurl.bigsun.xyz/) &ndash; A simple tool that allows you to try and see how your wallet interacts with an **lnurl** server.
-* [lnurl-toolbox](https://lnurl-toolbox.degreesofzero.com/) &ndash; A web interface with tools for testing and integrating LNURL
+* [lnurl-toolbox](https://lnurl-toolbox.degreesofzero.com/) &ndash; A web interface with tools for testing and integrating LNURL.
 
 Contribute
 ------------------------------------------------------------------------
