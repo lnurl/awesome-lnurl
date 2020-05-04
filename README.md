@@ -48,8 +48,9 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-withdraw
 
-* A big collection of services allow you to withdraw your balances with **lnurl**: [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Microbet](https://microbet.fun/), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/), [LN Markets 𝞪](https://lnmarkets.com/).
+* A big collection of services allow you to withdraw your balances with **lnurl**: [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Microbet](https://microbet.fun/), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/).
 * [Bitcoin Bounce](https://thndr.games/) &ndash; Play for free and win satoshi prizes. **lnurl** is the only way to redeem.
+* [LN Markets 𝞪](https://lnmarkets.com/) &ndash; [Login](https://twitter.com/LNMarkets/status/1257309284875923456?s=20) and withdraw with **lnurl**.
 * [GraafOne](https://www.graaf.one/) &ndash; Allows you to buy Bitcoin in Canada and withdraw directly to your **lnurl**-powered wallet.
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
 * [@arcbtc's TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DIY ATM machine that eats coins and spits out sats.
@@ -99,7 +100,7 @@ _Integrate **lnurl** in projects and services_.
 Tools
 ------------------------------------------------------------------------
 
-_Stuff for using and playing with **lnurl**_.
+_Stuff for learning, using and playing with **lnurl**_.
 
 * [lnurl codec](https://lnurl.bigsun.xyz/codec) &ndash; Easily encode and decode **lnurls**.
 * [SeedAuth](https://seedauth.etleneum.com/) &ndash; A service that allows you to login to **lnurl-auth** services using just a username and password.
