@@ -39,7 +39,6 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Etleneum](https://etleneum.com/) &ndash; For all reusable method calls, with or without a fixed number of satoshis in them, you can grab an **lnurl** at the main contract page and replay it from your wallet later.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
-* [lnurlpayserver](https://github.com/fiatjaf/lnurlpayserver) &ndash; An easy to host server that talks to your lnd, Spark or @lntxbot nodes and allows you to generate and serve **lnurls** and manage items in a physical shop.
 
 ### lnurl-auth
 
@@ -54,7 +53,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [GraafOne](https://www.graaf.one/) &ndash; Allows you to buy Bitcoin in Canada and withdraw directly to your **lnurl**-powered wallet.
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
 * [@arcbtc's TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DIY ATM machine that eats coins and spits out sats.
-* [Sinclair Faucet](https://lnurl.com/faucet/) &ndash; A faucet generator that creates printable **lnurl** codes withdrawable multiple times.
+* [lnbits](https://lnbits.org/) &ndash; The LNURLw plugin allows anyone to generate **lnurl** vouchers.
 * [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
 * [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
@@ -79,9 +78,9 @@ _Some wallets that support **lnurl**_.
 * [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
 * [Phoenix](https://phoenix.acinq.co/) &ndash; supports _lnurl-withdraw_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
+* [lnbits](https://lnbits.org/) &ndash; By sending an **lnurl** voucher or gift to anyone appended to an LNBits domain (like https://lnbits.com/?lightning=lnurl1...) that will uatomatically create an insta-wallet and redeem the voucher to it.
 * [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
 * [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_ and _lnurl-channel_.
-* [c-lightning](https://github.com/ElementsProject/lightning/) with the [`lnurl` plugin](https://github.com/fiatjaf/lightningd-gjson-rpc/tree/master/cmd/lnurl) &ndash; RPC methods that perform the _lnurl-channel_, _lnurl-auth_ and _lnurl-withdraw_.
 
 Libraries
 ------------------------------------------------------------------------
