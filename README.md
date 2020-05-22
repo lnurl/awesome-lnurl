@@ -34,6 +34,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-pay
 
+* [Bitrefill](https://bitrefill.com/) &ndash; Allows funding your account with **lnurl**.
 * [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian transport tickets, phones, send money to Russian debit cards and recharge Skype globally.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Create gifts without leaving your wallet by playing and replaying the basic gift **lnurl**.
 * [Etleneum](https://etleneum.com/) &ndash; For all reusable method calls, with or without a fixed number of satoshis in them, you can grab an **lnurl** at the main contract page and replay it from your wallet later.
@@ -49,9 +50,9 @@ _Apps and services supporting **lnurl** in the wild_.
 ### lnurl-withdraw
 
 * A big collection of services allow you to withdraw your balances with **lnurl**: [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Microbet](https://microbet.fun/), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/).
+* And also exchanges: [GraafOne](https://www.graaf.one/) on Canada and [SouthXchange](https://www.southxchange.com/) on Argentina.
 * [Bitcoin Bounce](https://thndr.games/) &ndash; Play for free and win satoshi prizes. **lnurl** is the only way to redeem.
 * [LN Markets 𝞪](https://lnmarkets.com/) &ndash; [Login](https://twitter.com/LNMarkets/status/1257309284875923456?s=20) and withdraw with **lnurl**.
-* [GraafOne](https://www.graaf.one/) &ndash; Allows you to buy Bitcoin in Canada and withdraw directly to your **lnurl**-powered wallet.
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
 * [@arcbtc's TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DIY ATM machine that eats coins and spits out sats.
 * [lnbits](https://lnbits.org/) &ndash; The LNURLw plugin allows anyone to generate **lnurl** vouchers.
