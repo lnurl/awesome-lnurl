@@ -51,6 +51,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * A big collection of services allow you to withdraw your balances with **lnurl**: [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Microbet](https://microbet.fun/), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/).
 * And also exchanges: [GraafOne](https://www.graaf.one/) on Canada and [SouthXchange](https://www.southxchange.com/) on Argentina.
+* [ZEBEDEE](https://documentation.zebedee.io/) &ndash; The REST API for game developers and [Unity SDK](https://github.com/zebedeeio/unity-sdk) automatically generates **lnurl** links that allow players to easily withdraw sats from the game.
 * [Bitcoin Bounce](https://thndr.games/) &ndash; Play for free and win satoshi prizes. **lnurl** is the only way to redeem.
 * [LN Markets 𝞪](https://lnmarkets.com/) &ndash; [Login](https://twitter.com/LNMarkets/status/1257309284875923456?s=20) and withdraw with **lnurl**.
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
@@ -65,6 +66,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * [LNBIG](https://lnbig.com/) &ndash; Get free inbound channels on your mobile wallet from this mysterious entity.
 * [Bitrefill's Thor](https://www.bitrefill.com/thor) &ndash; Buy a reliable incoming channel from this super liquid node, or get a turbo channel from which you can spend immediately.
+* [bifrost](https://github.com/takinbo/bifrost) &ndash; A self-hosted lnurl-powered invite-based channel-opening service.
 * [lnch-vekslak](https://github.com/Kixunil/lnch-vekslak) &ndash; Your self-hosted Thor. Allows you to sell or open channels with people in the streets (make sure to read and edit the code before using or you'll pay a high price).
 
 
@@ -95,7 +97,9 @@ _Integrate **lnurl** in projects and services_.
 * [js-lnurl](https://github.com/fiatjaf/js-lnurl) &ndash; Tools for adding **lnurl** support in a JavaScript wallet.
 * [php-lnurl](https://github.com/tkijewski/php-lnurl) &ndash; Easy PHP encoding and decoding of bech32 **lnurl**s.
 * [python-lnurl](https://github.com/python-ln/lnurl) &ndash; Tools for dealing with **lnurl** in Python.
+* [lnurl-ruby](https://github.com/bumi/lnurl-ruby) &ndash; A gem that provides helpers to work with **lnurl** from Ruby.
 * [lnurl-rust](https://github.com/edouardparis/rust-lnurl) &ndash; Rust helpers for **lnurl**.
+* [lnurl.net](https://github.com/Horndev/lnurl.net) &ndash; Library for **lnurl** in C#. Provides lnurl-auth helpers.
 
 
 Tools
