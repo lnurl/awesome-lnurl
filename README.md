@@ -45,7 +45,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a private login option.
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
-* [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with lnurl Instead of manually saving your key.
+* [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with **lnurl** Instead of manually saving your key.
 
 ### lnurl-withdraw
 
@@ -65,7 +65,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * [LNBIG](https://lnbig.com/) &ndash; Get free inbound channels on your mobile wallet from this mysterious entity.
 * [Bitrefill's Thor](https://www.bitrefill.com/thor) &ndash; Buy a reliable incoming channel from this super liquid node, or get a turbo channel from which you can spend immediately.
-* [bifrost](https://github.com/takinbo/bifrost) &ndash; A self-hosted lnurl-powered invite-based channel-opening service.
+* [bifrost](https://github.com/takinbo/bifrost) &ndash; A self-hosted **lnurl**-powered invite-based channel-opening service.
 * [lnch-vekslak](https://github.com/Kixunil/lnch-vekslak) &ndash; Your self-hosted Thor. Allows you to sell or open channels with people in the streets (make sure to read and edit the code before using or you'll pay a high price).
 
 
@@ -81,7 +81,7 @@ _Some wallets that support **lnurl**_.
 * [Shockwallet](https://shockwallet.app/#features) &ndash; supports _lnurl-pay_, _lnurl-withdraw_ and _lnurl-channel_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
 * [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
-* [lnbits](https://lnbits.org/) &ndash; By sending an **lnurl** voucher or gift to anyone appended to an LNBits domain (like https://lnbits.com/?lightning=lnurl1...) that will uatomatically create an insta-wallet and redeem the voucher to it.
+* [lnbits](https://lnbits.org/) &ndash; By sending an **lnurl** voucher or gift to anyone appended to an LNBits domain (like https://lnbits.com/?lightning=lnurl1...) that will automatically create an insta-wallet and redeem the voucher to it.
 * [blixt](https://github.com/hsjoberg/blixt-wallet) &ndash; Supports _lnurl-channel_.
 * [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
 * [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_ and _lnurl-channel_.
