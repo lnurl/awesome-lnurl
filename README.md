@@ -82,7 +82,7 @@ _Some wallets that support **lnurl**_.
 * [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
 * [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
 * [lnbits](https://lnbits.org/) &ndash; By sending an **lnurl** voucher or gift to anyone appended to an LNBits domain (like https://lnbits.com/?lightning=lnurl1...) that will automatically create an insta-wallet and redeem the voucher to it.
-* [blixt](https://github.com/hsjoberg/blixt-wallet) &ndash; Supports _lnurl-channel_.
+* [Blixt Wallet](https://github.com/hsjoberg/blixt-wallet) &ndash; Supports _lnurl-pay_, _lnurl-withdraw_, _lnurl-auth_ and  _lnurl-channel_.
 * [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
 * [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_ and _lnurl-channel_.
 
