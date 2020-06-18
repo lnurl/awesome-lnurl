@@ -74,17 +74,19 @@ Wallets
 
 _Some wallets that support **lnurl**_.
 
-* [Bitcoin Lightning Wallet](https://lightning-wallet.com/) &ndash; BLW supports _lnurl-pay_, _lnurl-withdraw_, _lnurl-auth_ and  _lnurl-channel_.
-* [Phoenix](https://phoenix.acinq.co/) &ndash; supports _lnurl-withdraw_ and _lnurl-auth_.
-* [Zeus](https://github.com/ZeusLN/zeus) &ndash; supports _lnurl-pay_ and _lnurl-withdraw_.
-* [@lntxbot](https://t.me/lntxbot) &ndash; supports _lnurl-pay_, _lnurl-withdraw_ and _lnurl-auth_.
-* [Shockwallet](https://shockwallet.app/#features) &ndash; supports _lnurl-pay_, _lnurl-withdraw_ and _lnurl-channel_.
-* [BlueWallet](https://bluewallet.io/) &ndash; supports _lnurl-withdraw_.
-* [Breez](https://breez.technology/) &ndash; supports _lnurl-channel_ and _lnurl-withdraw_.
-* [lnbits](https://lnbits.org/) &ndash; By sending an **lnurl** voucher or gift to anyone appended to an LNBits domain (like https://lnbits.com/?lightning=lnurl1...) that will automatically create an insta-wallet and redeem the voucher to it.
-* [blixt](https://github.com/hsjoberg/blixt-wallet) &ndash; Supports _lnurl-channel_.
-* [Zap](https://www.zaphq.io/) &ndash; supports _lnurl-withdraw_.
-* [Wallet of Satoshi](https://www.walletofsatoshi.com/) &ndash; supports _lnurl-withdraw_ and _lnurl-channel_.
+| Wallet | lnurl-withdraw | lnurl-pay | lnurl-auth | lnurl-channel |
+| ---: | :---: | :---: | :---: | :---: |
+| [BLW](https://lightning-wallet.com/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [Blixt](https://github.com/hsjoberg/blixt-wallet) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: |  |  |  |
+| [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |
+| [lnbits](https://lnbits.org/) | :heavy_check_mark: |  |  |  |
+| [@lntxbot](https://t.me/lntxbot) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |
+| [Shockwallet](https://shockwallet.app/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
+| [Wallet of Satoshi](https://www.walletofsatoshi.com/) | :heavy_check_mark: |  |  |  |
+| [Zap](https://www.zaphq.io/) | :heavy_check_mark: |  |  |  |
+| [Zeus](https://github.com/ZeusLN/zeus) | :heavy_check_mark: | :heavy_check_mark: |  |  |
 
 Libraries
 ------------------------------------------------------------------------
