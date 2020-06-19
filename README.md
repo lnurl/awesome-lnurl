@@ -111,7 +111,7 @@ _Stuff for learning, using and playing with **lnurl**_.
 
 * [lnurl codec](https://lnurl.bigsun.xyz/codec) &ndash; Easily encode and decode **lnurls**.
 * [lnurl-toolbox](https://lnurl-toolbox.degreesofzero.com/) &ndash; A web interface with tools for testing and integrating **lnurl**.
-* [SeedAuth](https://seedauth.etleneum.com/) &ndash; A service that allows you to login to **lnurl-auth** services using just a username and password.
+* [SeedAuth](https://seedauth.etleneum.com/) &ndash; A JS app that allows you to login to **lnurl-auth** services using just a username and password.
 * [lnurl playground](https://lnurl.bigsun.xyz/) &ndash; A simple tool that allows you to try and see how your wallet interacts with an **lnurl** server.
 
 Contribute
