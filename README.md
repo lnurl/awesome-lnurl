@@ -46,6 +46,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a private login option.
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
 * [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with **lnurl** Instead of manually saving your key.
+* [coinos](https://coinos.io/) &ndash; Link an existing account to an **lnurl** key and login with only that afterwards.
 
 ### lnurl-withdraw
 
