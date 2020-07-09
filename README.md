@@ -60,6 +60,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [lnbits](https://lnbits.org/) &ndash; The LNURLw plugin allows anyone to generate **lnurl** vouchers.
 * [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
 * [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
+* [Bleskomat](https://github.com/samotari/bleskomat) &ndash; The offline Lightning Network ATM - device source code, lnurl server implementation, and build instructions included.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 * [LNURLProxyAPI](https://github.com/21isenough/LNURLProxyAPI) &ndash; Allows you to issue noncustodial **lnurls** from your own home node, wait until someone tries to redeem them and pay the invoice. Like lightning.gifts, but noncustodial.
 
