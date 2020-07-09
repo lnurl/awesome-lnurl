@@ -24,7 +24,6 @@ _Readings about **lnurl**_.
 * [lnurl-auth explained](https://xn--57h.bigsun.xyz/lnurl-auth.html) &ndash; Everything you always wanted
 * [lnurl-withdraw flow](https://⚡️.bigsun.xyz/lnurl-withdraw-flow.txt) &ndash; One of those incomprehensible program action-data flows detailing how **lnurl-withdraw** takes place.
 * [lnurl-pay flow](https://⚡️.bigsun.xyz/lnurl-pay-flow.txt) &ndash; Same as above, but for **lnurl-pay**.
-* [lnurl-pay for everything](https://xn--57h.bigsun.xyz/lnurl-pay-for-everything.html) &ndash; an article about how **lnurl-pay** can bring China's QR frenzy to the rest of the world in a non-centralised manner.
 
 
 Services
@@ -40,13 +39,14 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Etleneum](https://etleneum.com/) &ndash; For all reusable method calls, with or without a fixed number of satoshis in them, you can grab an **lnurl** at the main contract page and replay it from your wallet later.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
+* [coinos](https://coinos.io/) &ndash; Allows you to fund your account with an **lnurl**.
 
 ### lnurl-auth
 
 * [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a private login option.
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
 * [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with **lnurl** Instead of manually saving your key.
-* [coinos](https://coinos.io/) &ndash; Link an existing account to an **lnurl** key and login with only that afterwards.
+* [coinos](https://coinos.io/) &ndash; Allows you to add multiple _linking keys_ to the same account.
 
 ### lnurl-withdraw
 
@@ -56,6 +56,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Bitcoin Bounce](https://thndr.games/) &ndash; Play for free and win satoshi prizes. **lnurl** is the only way to redeem.
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
 * [@arcbtc's TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DIY ATM machine that eats coins and spits out sats.
+* [coinos](https://coinos.io/) &ndash; Allows you to issue **lnurl** vouchers.
 * [lnbits](https://lnbits.org/) &ndash; The LNURLw plugin allows anyone to generate **lnurl** vouchers.
 * [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
 * [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
@@ -81,6 +82,7 @@ _Some wallets that support **lnurl**_.
 | [Blixt](https://github.com/hsjoberg/blixt-wallet) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: |  |  |  |
 | [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |
+| [coinos](https://coinos.io/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [lnbits](https://lnbits.org/) | :heavy_check_mark: |  |  |  |
 | [@lntxbot](https://t.me/lntxbot) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |
