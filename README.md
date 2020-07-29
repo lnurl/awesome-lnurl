@@ -81,7 +81,7 @@ _Some wallets that support **lnurl**_.
 | ---: | :---: | :---: | :---: | :---: |
 | [BLW](https://lightning-wallet.com/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Blixt](https://github.com/hsjoberg/blixt-wallet) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: |  |  |  |
+| [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: | :heavy_check_mark: |  |  |
 | [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | [coinos](https://coinos.io/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [lnbits](https://lnbits.org/) | :heavy_check_mark: |  |  |  |
