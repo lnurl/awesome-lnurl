@@ -89,7 +89,7 @@ _Some wallets that support **lnurl**_.
 | [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |
 | [Shockwallet](https://shockwallet.app/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
 | [Wallet of Satoshi](https://www.walletofsatoshi.com/) | :heavy_check_mark: |  |  |  |
-| [Zap](https://www.zaphq.io/) | :heavy_check_mark: |  |  | :heavy_check_mark: |
+| [Zap](https://www.zaphq.io/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
 | [Zeus](https://github.com/ZeusLN/zeus) | :heavy_check_mark: | :heavy_check_mark: |  |  |
 
 Libraries
