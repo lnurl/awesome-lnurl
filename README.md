@@ -87,6 +87,7 @@ _Some wallets that support **lnurl**_.
 | [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | [coinos](https://coinos.io/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [lnbits](https://lnbits.org/) | :heavy_check_mark: |  |  |  |
+| [LNPay](https://lnpay.co/) | :heavy_check_mark: |  |  |  |
 | [@lntxbot](https://t.me/lntxbot) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |
 | [Shockwallet](https://shockwallet.app/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
