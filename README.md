@@ -108,6 +108,7 @@ _Integrate **lnurl** in projects and services_.
 * [lnurl-ruby](https://github.com/bumi/lnurl-ruby) &ndash; A gem that provides helpers to work with **lnurl** from Ruby.
 * [lnurl-rust](https://github.com/edouardparis/rust-lnurl) &ndash; Rust helpers for **lnurl**.
 * [lnurl.net](https://github.com/Horndev/lnurl.net) &ndash; Library for **lnurl** in C#. Provides lnurl-auth helpers.
+* [dart_lnurl](https://github.com/bottlepay/dart_lnurl) &ndash; Library for **lnurl** in Dart.
 
 
 Tools
