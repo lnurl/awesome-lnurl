@@ -36,6 +36,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * [Bitrefill](https://bitrefill.com/) &ndash; Allows funding your account with **lnurl**.
 * [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian transport tickets, phones, send money to Russian debit cards and recharge Skype globally.
+* [lnbits](https://lnbits.org/) &ndash; The LNURLp plugin allows anyone to generate **lnurl** payment codes and dispatch webhooks whenever a new payment comes in.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Create gifts without leaving your wallet by playing and replaying the basic gift **lnurl**.
 * [Etleneum](https://etleneum.com/) &ndash; For all reusable method calls, with or without a fixed number of satoshis in them, you can grab an **lnurl** at the main contract page and replay it from your wallet later.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
@@ -86,7 +87,7 @@ _Some wallets that support **lnurl**_.
 | [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: | :heavy_check_mark: |  |  |
 | [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |
 | [coinos](https://coinos.io/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [lnbits](https://lnbits.org/) | :heavy_check_mark: |  |  |  |
+| [lnbits](https://lnbits.org/) | :heavy_check_mark: | :heavy_check_mark: |  |  |
 | [@lntxbot](https://t.me/lntxbot) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |
 | [Shockwallet](https://shockwallet.app/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
