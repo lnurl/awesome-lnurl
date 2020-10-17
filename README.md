@@ -82,20 +82,20 @@ Wallets
 
 _Some wallets that support **lnurl**_.
 
-| Wallet | lnurl-withdraw | lnurl-pay | lnurl-auth | lnurl-channel |
+| Wallet | lnurl-withdraw | lnurl-pay | lnurl-auth | lnurl-channel | lnurl-fallback |
 | ---: | :---: | :---: | :---: | :---: |
-| [BLW](https://lightning-wallet.com/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [Blixt](https://github.com/hsjoberg/blixt-wallet) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: | :heavy_check_mark: |  |  |
-| [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |
-| [coinos](https://coinos.io/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [lnbits](https://lnbits.org/) | :heavy_check_mark: | :heavy_check_mark: |  |  |
-| [@lntxbot](https://t.me/lntxbot) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
-| [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |
-| [Shockwallet](https://shockwallet.app/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
-| [Wallet of Satoshi](https://www.walletofsatoshi.com/) | :heavy_check_mark: |  |  |  |
-| [Zap](https://www.zaphq.io/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |
-| [Zeus](https://github.com/ZeusLN/zeus) | :heavy_check_mark: | :heavy_check_mark: |  |  |
+| [BLW](https://lightning-wallet.com/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| [Blixt](https://github.com/hsjoberg/blixt-wallet) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: | :heavy_check_mark: |  |  |  |
+| [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |  |
+| [coinos](https://coinos.io/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| [lnbits](https://lnbits.org/) | :heavy_check_mark: | :heavy_check_mark: |  |  |  |
+| [@lntxbot](https://t.me/lntxbot) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  |
+| [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |  |
+| [Shockwallet](https://shockwallet.app/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |  |
+| [Wallet of Satoshi](https://www.walletofsatoshi.com/) | :heavy_check_mark: |  |  |  |  |
+| [Zap](https://www.zaphq.io/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |  |
+| [Zeus](https://github.com/ZeusLN/zeus) | :heavy_check_mark: | :heavy_check_mark: |  |  |  |
 
 Libraries
 ------------------------------------------------------------------------
