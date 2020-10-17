@@ -82,8 +82,8 @@ Wallets
 
 _Some wallets that support **lnurl**_.
 
-| Wallet | lnurl-withdraw | lnurl-pay | lnurl-auth | lnurl-channel | lnurl-fallback |
-| ---: | :---: | :---: | :---: | :---: |
+| Wallet | lnurl-withdraw | lnurl-pay | lnurl-auth | lnurl-channel | lnurl-fallback¹ |
+| ---: | :---: | :---: | :---: | :---: | :---: |
 | [BLW](https://lightning-wallet.com/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [Blixt](https://github.com/hsjoberg/blixt-wallet) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: | :heavy_check_mark: |  |  |  |
@@ -91,12 +91,14 @@ _Some wallets that support **lnurl**_.
 | [coinos](https://coinos.io/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [lnbits](https://lnbits.org/) | :heavy_check_mark: | :heavy_check_mark: |  |  |  |
 | [@lntxbot](https://t.me/lntxbot) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  |
-| [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  |  |
+| [Phoenix](https://phoenix.acinq.co/) | :heavy_check_mark: |  | :heavy_check_mark: |  | [:heavy_check_mark:](https://github.com/ACINQ/phoenix/commit/ac81a573db73f4c95e485ec46cf34d3a8e4c1c12) |
 | [Shockwallet](https://shockwallet.app/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |  |
-| [Wallet of Satoshi](https://www.walletofsatoshi.com/) | :heavy_check_mark: |  |  |  |  |
+| [Wallet of Satoshi](https://www.walletofsatoshi.com/) | :heavy_check_mark: |  |  |  | :heavy_check_mark: |
 | [Zap](https://www.zaphq.io/) | :heavy_check_mark: | :heavy_check_mark: |  | :heavy_check_mark: |  |
 | [Zeus](https://github.com/ZeusLN/zeus) | :heavy_check_mark: | :heavy_check_mark: |  |  |  |
 
+*¹=lnurl-fallback-scheme is defined on the first page of the [LNURL specifications](https://github.com/btcontract/lnurl-rfc#fallback-scheme). It allows to embed an bech32-encoded LNURL string into a normal Web-URL so that for example a LNURL QR code can be opened on every smartphone as a fallback with a normal web browser (if a specialised wallet app is not installed yet). Every LNURL supporting wallet should be able to parse such Web-URLs for bech32-encoded LNURL strings - it easy to implement and just requires a handfull of additional lines of code.*
+ 
 Libraries
 ------------------------------------------------------------------------
 
