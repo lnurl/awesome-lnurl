@@ -84,7 +84,7 @@ _Some wallets that support **lnurl**_.
 
 | Wallet | lnurl-withdraw | lnurl-pay | lnurl-auth | lnurl-channel | lnurl-fallback¹ |
 | ---: | :---: | :---: | :---: | :---: | :---: |
-| [BLW](https://lightning-wallet.com/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
+| [BLW](https://lightning-wallet.com/) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Blixt](https://github.com/hsjoberg/blixt-wallet) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |
 | [BlueWallet](https://bluewallet.io/) | :heavy_check_mark: | :heavy_check_mark: |  |  |  |
 | [Breez](https://breez.technology/) | :heavy_check_mark: |  |  | :heavy_check_mark: |  |
