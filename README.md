@@ -23,8 +23,9 @@ _Readings about **lnurl**_.
 * [The spec](https://github.com/btcontract/lnurl-rfc) &ndash; The confusing, but honest, **lnurl** spec.
 * [lnurl-auth explained](https://xn--57h.bigsun.xyz/lnurl-auth.html) &ndash; Everything you always wanted
 * [lnurl-withdraw flow](https://⚡️.bigsun.xyz/lnurl-withdraw-flow.txt) &ndash; One of those incomprehensible program action-data flows detailing how **lnurl-withdraw** takes place.
-* [lnurl-pay flow](https://⚡️.bigsun.xyz/lnurl-pay-flow.txt) &ndash; Same as above, but for **lnurl-pay**.
+* [lnurl-pay flow](https://⚡️.bigsun.xyz/lnurl-pay-flow.txt) &ndash; Same as above, but for **lnurl-pay* (doesn't include all features).
 * [Coindesk article](https://www.coindesk.com/bitcoin-wallets-are-adopting-this-tech-to-simplify-lightning-payments) &ndash; An honest report on **lnurl**.
+* [Beyond Coffee: Bitcoin for Every Day Use with LNURL](https://degreesofzero.com/article/beyond-coffee-bitcoin-for-every-day-use-with-lnurl.html) &ndash; An insightful article with explanations and use cases.
 
 
 Services
@@ -99,7 +100,7 @@ _Some wallets that support **lnurl**_.
 | [Zeus](https://github.com/ZeusLN/zeus) | :heavy_check_mark: | :heavy_check_mark: |  |  | :heavy_check_mark: |
 
 *¹=lnurl-fallback-scheme is defined on the first page of the [LNURL specifications](https://github.com/btcontract/lnurl-rfc#fallback-scheme). It allows to embed an bech32-encoded LNURL string into a normal Web-URL so that for example a LNURL QR code can be opened on every smartphone as a fallback with a normal web browser (if a specialised wallet app is not installed yet). Every LNURL supporting wallet should be able to parse such Web-URLs for bech32-encoded LNURL strings - it easy to implement and just requires a handfull of additional lines of code.*
- 
+
 Libraries
 ------------------------------------------------------------------------
 
