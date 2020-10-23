@@ -43,7 +43,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Blixt's lnurl-pay chat](https://chat.blixtwallet.com/) &ndash; A simple chat you have to pay 10 satoshis to send an anonymous message directly from your wallet (the interface is just a QR code) as a proof-of-concept for lnurl-pay comments.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
-* [zbd.gg](https://zbd.gg/) &ndash; Static QR codes for users of ZEBEDEE Wallet to accept payments and messages.
+* [zbd.gg](https://zbd.gg/) &ndash; Static **lnurl pay** QR codes for users of ZEBEDEE Wallet to accept payments and messages.
 * [coinos](https://coinos.io/) &ndash; Allows you to fund your account with an **lnurl**.
 
 ### lnurl-auth
