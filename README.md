@@ -43,7 +43,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Blixt's lnurl-pay chat](https://chat.blixtwallet.com/) &ndash; A simple chat you have to pay 10 satoshis to send an anonymous message directly from your wallet (the interface is just a QR code) as a proof-of-concept for lnurl-pay comments.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
-* [zbd.gg](https://zbd.gg/) &ndash; Mysterious page that allows you to send payments and comments for nothing.
+* [zbd.gg](https://zbd.gg/) &ndash; Static **lnurl pay** QR codes for users of ZEBEDEE Wallet to accept payments and messages.
 * [coinos](https://coinos.io/) &ndash; Allows you to fund your account with an **lnurl**.
 
 ### lnurl-auth
@@ -98,6 +98,7 @@ _Some wallets that support **lnurl**_.
 | [Zap-iOS](https://www.zaphq.io/)                         |           | ☑️        | ☑️     |       | ☑️       |
 | [Zap-Android](https://www.zaphq.io/)                     | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [Zeus](https://github.com/ZeusLN/zeus)                   | ☑️         | ☑️        | ☑️ 💬  |       |         |
+| [ZEBEDEE](https://zbd.gg)                                |           | ☑️        | ☑️ 💬  |       |         |
 
 *¹=the **fallback scheme** is defined on the first page of the [LNURL specifications](https://github.com/btcontract/lnurl-rfc#fallback-scheme). It allows to embed an bech32-encoded LNURL string into a normal Web-URL so that for example a LNURL QR code can be opened on every smartphone as a fallback with a normal web browser (if a specialised wallet app is not installed yet). Every LNURL supporting wallet should be able to parse such Web-URLs for bech32-encoded LNURL strings - it easy to implement and just requires a handfull of additional lines of code.*
 
