@@ -86,7 +86,7 @@ _Some wallets that support **lnurl**_.
 | Wallet                                                   | fallback¹ | withdraw | pay   | auth  | channel |
 | ---:                                                     | :---:     | :---:    | :---  | :---: | :---:   |
 | [BLW](https://lightning-wallet.com/)                     | ☑️         | ☑️        | ☑️     | ☑️     | ☑️       |
-| [Blixt](https://github.com/hsjoberg/blixt-wallet)        |           | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
+| [Blixt](https://github.com/hsjoberg/blixt-wallet)        | ☑️         | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
 | [BlueWallet](https://bluewallet.io/)                     | ☑️         | ☑️        | ☑️     |       |         |
 | [Breez](https://breez.technology/)                       | ☑️         | ☑️        |       |       | ☑️       |
 | [coinos](https://coinos.io/)                             |           | ☑️        | ☑️     | ☑️     | ☑️       |
