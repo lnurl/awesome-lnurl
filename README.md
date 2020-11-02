@@ -110,6 +110,7 @@ _Integrate **lnurl** in projects and services_.
 * [go-lnurl](https://github.com/fiatjaf/go-lnurl) &ndash; **lnurl** helper structs, encode/decode, verify signatures, misc helpers.
 * [lnurl-node](https://github.com/chill117/lnurl-node) &ndash; CLI tool and **lnurl** server in Node.js.
 * [passport-lnurl-auth](https://github.com/chill117/passport-lnurl-auth) &ndash; Passport strategy that uses lnurl-auth
+* [lnurl-platformio](https://github.com/chill117/lnurl-platformio) &ndash; Implementation of lnurl in C++ for PlatformIO (software tooling for hardware devices).
 * [js-lnurl](https://github.com/fiatjaf/js-lnurl) &ndash; Tools for adding **lnurl** support in a JavaScript wallet.
 * [php-lnurl](https://github.com/tkijewski/php-lnurl) &ndash; Easy PHP encoding and decoding of bech32 **lnurl**s.
 * [python-lnurl](https://github.com/python-ln/lnurl) &ndash; Tools for dealing with **lnurl** in Python.
