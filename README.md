@@ -52,6 +52,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
 * [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with **lnurl** Instead of manually saving your key.
 * [coinos](https://coinos.io/) &ndash; Allows you to add multiple _linking keys_ to the same account.
+* [ilno](https://github.com/fiatjaf/ilno) &ndash; A light, self-hosted embeddable comments server similar to Disqus/Isso with **lnurl** user logins.
 
 ### lnurl-withdraw
 
