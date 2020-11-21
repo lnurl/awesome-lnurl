@@ -95,11 +95,12 @@ _Some wallets that support **lnurl**_.
 | [@lntxbot](https://t.me/lntxbot)                         | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
 | [Phoenix](https://phoenix.acinq.co/)                     | ☑️         | ☑️        |       | ☑️     |         |
 | [Shockwallet](https://shockwallet.app/)                  | ☑️         | ☑️        | ☑️     |       | ☑️       |
+| [ThunderHub](https://github.com/apotdevin/thunderhub)    |           | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
 | [Wallet of Satoshi](https://www.walletofsatoshi.com/)    | ☑️         | ☑️        |       |       |         |
-| [Zap-iOS](https://www.zaphq.io/)                         |           | ☑️        | ☑️     |       | ☑️       |
-| [Zap-Android](https://www.zaphq.io/)                     | ☑️         | ☑️        | ☑️     |       | ☑️       |
-| [Zeus](https://github.com/ZeusLN/zeus)                   | ☑️         | ☑️        | ☑️ 💬  |       |         |
 | [ZEBEDEE](https://zbd.gg)                                | ☑️         | ☑️        | ☑️ 💬  |       |         |
+| [Zap-Android](https://www.zaphq.io/)                     | ☑️         | ☑️        | ☑️     |       | ☑️       |
+| [Zap-iOS](https://www.zaphq.io/)                         |           | ☑️        | ☑️     |       | ☑️       |
+| [Zeus](https://github.com/ZeusLN/zeus)                   | ☑️         | ☑️        | ☑️ 💬  |       |         |
 
 *¹=the **fallback scheme** is defined on the first page of the [LNURL specifications](https://github.com/btcontract/lnurl-rfc#fallback-scheme). It allows to embed an bech32-encoded LNURL string into a normal Web-URL so that for example a LNURL QR code can be opened on every smartphone as a fallback with a normal web browser (if a specialised wallet app is not installed yet). Every LNURL supporting wallet should be able to parse such Web-URLs for bech32-encoded LNURL strings - it easy to implement and just requires a handfull of additional lines of code.*
 
