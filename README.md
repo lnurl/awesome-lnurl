@@ -128,10 +128,11 @@ Tools
 
 _Stuff for learning, using and playing with **lnurl**_.
 
-* [lnurl codec](https://lnurl.bigsun.xyz/codec) &ndash; Easily encode and decode **lnurls**.
 * [lnurl-toolbox](https://lnurl-toolbox.degreesofzero.com/) &ndash; A web interface with tools for testing and integrating **lnurl**.
-* [SeedAuth](https://seedauth.etleneum.com/) &ndash; A JS app that allows you to login to **lnurl-auth** services using just a username and password.
+* [Lightning Decoder](https://lightningdecoder.com/) &ndash; A nice clean UI for decoding Lightning invoices and **lnurls**.
+* [lnurl codec](https://lnurl.bigsun.xyz/codec) &ndash; The most simple **lnurl** encoder/decoder.
 * [lnurl playground](https://lnurl.bigsun.xyz/) &ndash; A simple tool that allows you to try and see how your wallet interacts with an **lnurl** server.
+* [SeedAuth](https://seedauth.etleneum.com/) &ndash; A JS app that allows you to login to **lnurl-auth** services using just a username and password.
 * [SeedAuthExtension](https://github.com/pseudozach/seedauthextension) &ndash; A Chrome & Firefox extension that allows you to login to **lnurl-auth** services using just a username and password.
 
 Contribute
