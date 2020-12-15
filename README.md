@@ -72,6 +72,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [LNbits](https://lnbits.org/) &ndash; The LNURLw plugin allows anyone to generate **lnurl** vouchers.
 * [Rewards to Bitcoin](https://play.google.com/store/apps/details?id=com.pseudozach.rewardstobitcoin) &ndash; Android app that lets you cash out Play Store balance with **lnurl**
 * [ZEBEDEE](https://documentation.zebedee.io/) &ndash; The REST API for game developers and [Unity SDK](https://github.com/zebedeeio/unity-sdk) automatically generates **lnurl** links that allow players to easily withdraw sats from the game.
+* [Surfcity Parking](https://surfcity.app/) &ndash; Surfcity lets you find and share parking spaces in residential areas. Pay with credit/debit card or BTC Lightning for your booking. Parking space owners can opt to withdraw anytime to their Lightning wallet through **lnurl** or use SEPA (EUR, CZK, GBP) monthly payouts.
 
 ### lnurl-channel
 
