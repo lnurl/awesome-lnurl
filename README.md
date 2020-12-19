@@ -71,8 +71,8 @@ _Apps and services supporting **lnurl** in the wild_.
 * [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
 * [LNbits](https://lnbits.org/) &ndash; The LNURLw plugin allows anyone to generate **lnurl** vouchers.
 * [Rewards to Bitcoin](https://play.google.com/store/apps/details?id=com.pseudozach.rewardstobitcoin) &ndash; Android app that lets you cash out Play Store balance with **lnurl**
-* [ZEBEDEE](https://documentation.zebedee.io/) &ndash; The REST API for game developers and [Unity SDK](https://github.com/zebedeeio/unity-sdk) automatically generates **lnurl** links that allow players to easily withdraw sats from the game.
 * [Surfcity Parking](https://surfcity.app/) &ndash; Surfcity lets you find and share parking spaces in residential areas. Pay with credit/debit card or BTC Lightning for your booking. Parking space owners can opt to withdraw anytime to their Lightning wallet through **lnurl** or use SEPA (EUR, CZK, GBP) monthly payouts.
+* [ZEBEDEE](https://documentation.zebedee.io/) &ndash; The REST API for game developers and [Unity SDK](https://github.com/zebedeeio/unity-sdk) automatically generates **lnurl** links that allow players to easily withdraw sats from the game.
 
 ### lnurl-channel
 
@@ -100,9 +100,9 @@ _Some wallets that support **lnurl**_.
 | [Shockwallet](https://shockwallet.app/)                  | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [ThunderHub](https://github.com/apotdevin/thunderhub)    |           | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
 | [Wallet of Satoshi](https://www.walletofsatoshi.com/)    | ☑️         | ☑️        | ☑️     |       |         |
-| [ZEBEDEE](https://zbd.gg)                                | ☑️         | ☑️        | ☑️ 💬  |       |         |
 | [Zap-Android](https://www.zaphq.io/)                     | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [Zap-iOS](https://www.zaphq.io/)                         |           | ☑️        | ☑️     |       | ☑️       |
+| [ZEBEDEE](https://zbd.gg)                                | ☑️         | ☑️        | ☑️ 💬  |       |         |
 | [Zeus](https://github.com/ZeusLN/zeus)                   | ☑️         | ☑️        | ☑️ 💬  |       |         |
 
 *¹=the **fallback scheme** is defined on the first page of the [LNURL specifications](https://github.com/btcontract/lnurl-rfc#fallback-scheme). It allows to embed an bech32-encoded LNURL string into a normal Web-URL so that for example a LNURL QR code can be opened on every smartphone as a fallback with a normal web browser (if a specialised wallet app is not installed yet). Every LNURL supporting wallet should be able to parse such Web-URLs for bech32-encoded LNURL strings - it easy to implement and just requires a handfull of additional lines of code.*
