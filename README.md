@@ -89,7 +89,7 @@ _Some wallets that support **lnurl**_.
 
 | Wallet                                                   | fallback¹ | withdraw | pay   | auth  | channel |
 | ---:                                                     | :---:     | :---:    | :---  | :---: | :---:   |
-| [BLW](https://lightning-wallet.com/)                     | ☑️         | ☑️        | ☑️     | ☑️     | ☑️       |
+| [BLW²](https://lightning-wallet.com/)                    | ☑️         | ☑️        | ☑️     | ☑️     | ☑️       |
 | [Blixt](https://github.com/hsjoberg/blixt-wallet)        | ☑️         | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
 | [BlueWallet](https://bluewallet.io/)                     | ☑️         | ☑️        | ☑️     |       |         |
 | [Breez](https://breez.technology/)                       | ☑️         | ☑️        |       | ☑️     | ☑️       |
@@ -106,6 +106,8 @@ _Some wallets that support **lnurl**_.
 | [Zeus](https://github.com/ZeusLN/zeus)                   | ☑️         | ☑️        | ☑️ 💬  |       |         |
 
 *¹=the **fallback scheme** is defined on the first page of the [LNURL specifications](https://github.com/btcontract/lnurl-rfc#fallback-scheme). It allows to embed an bech32-encoded LNURL string into a normal Web-URL so that for example a LNURL QR code can be opened on every smartphone as a fallback with a normal web browser (if a specialised wallet app is not installed yet). Every LNURL supporting wallet should be able to parse such Web-URLs for bech32-encoded LNURL strings - it easy to implement and just requires a handfull of additional lines of code.*
+
+*²=Will not be developed further. The [repository](https://github.com/btcontract/lnwallet) has been archived by the owner.*
 
 Libraries
 ------------------------------------------------------------------------
