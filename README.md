@@ -40,6 +40,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Etleneum](https://etleneum.com/) &ndash; For all reusable method calls, with or without a fixed number of satoshis in them, you can grab an **lnurl** at the main contract page and replay it from your wallet later.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Create gifts without leaving your wallet by playing and replaying the basic gift **lnurl**.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
+* [lnshort.it](https://lnshort.it/) &ndash; Allows you to pay for redirects and fund your account balance with an **lnurl**.
 * [NextPay](https://github.com/apotdevin/NextPay) &ndash; A personal **lnurl** tipping server you can deploy freely and easily and it will talk to your LND node.
 * [coinos](https://coinos.io/) &ndash; Allows you to fund your account with an **lnurl**.
 * [lnbits](https://lnbits.org/) &ndash; The LNURLp plugin allows anyone to generate **lnurl** payment codes and dispatch webhooks whenever a new payment comes in.
@@ -53,6 +54,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
 * [ilno](https://github.com/fiatjaf/ilno) &ndash; A light, self-hosted embeddable comments server similar to Disqus/Isso with **lnurl** user logins.
 * [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a private login option.
+* [lnshort.it](https://lnshort.it/) &ndash; The only supported login method is **lnurl**.
 * [Rewards to Bitcoin](https://play.google.com/store/apps/details?id=com.pseudozach.rewardstobitcoin) &ndash; Backup/Restore your anonymous user account with **lnurl**.
 * [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with **lnurl** Instead of manually saving your key.
 
