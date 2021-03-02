@@ -115,6 +115,7 @@ Libraries
 _Integrate **lnurl** in projects and services_.
 
 * [go-lnurl](https://github.com/fiatjaf/go-lnurl) &ndash; **lnurl** helper structs, encode/decode, verify signatures, misc helpers.
+* [lnurlauth](https://github.com/xplorfin/lnurlauth) &ndash; **lnurl** authentication library which provides an end-to-end example of an lnurlauth implementation
 * [lnurl-node](https://github.com/chill117/lnurl-node) &ndash; CLI tool and **lnurl** server in Node.js.
 * [passport-lnurl-auth](https://github.com/chill117/passport-lnurl-auth) &ndash; Passport strategy that uses lnurl-auth
 * [lnurl-platformio](https://github.com/chill117/lnurl-platformio) &ndash; Implementation of lnurl in C++ for PlatformIO (software tooling for hardware devices).
