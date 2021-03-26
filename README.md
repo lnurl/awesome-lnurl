@@ -43,7 +43,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [lnshort.it](https://lnshort.it/) &ndash; Allows you to pay for redirects and fund your account balance with an **lnurl**.
 * [NextPay](https://github.com/apotdevin/NextPay) &ndash; A personal **lnurl** tipping server you can deploy freely and easily and it will talk to your LND node.
 * [coinos](https://coinos.io/) &ndash; Allows you to fund your account with an **lnurl**.
-* [lnbits](https://lnbits.org/) &ndash; The LNURLp plugin allows anyone to generate **lnurl** payment codes and dispatch webhooks whenever a new payment comes in.
+* [LNbits](https://lnbits.org/) &ndash; The _LNURLp_ plugin allows anyone to generate **lnurl** payment codes and dispatch webhooks whenever a new payment comes in; and the _OfflineShop_ plugin allows small shops to sell goods for Bitcoin without needing any electronic device.
 * [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian transport tickets, phones, send money to Russian debit cards and recharge Skype globally.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [zbd.gg](https://zbd.gg/) &ndash; Static **lnurl pay** QR codes for users of ZEBEDEE Wallet to accept payments and messages.
@@ -62,25 +62,27 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * A big collection of services allow you to withdraw your balances with **lnurl**: [HangarSix Warzone Tournaments](https://www.hangarsixgaming.com/), [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/), [LNMarkets](https://lnmarkets.com/), [Stekking](https://stekking.com), [Microlancer](https://microlancer.io/).
 * And also exchanges: [GraafOne](https://www.graaf.one/) on Canada and [SouthXchange](https://www.southxchange.com/) on Argentina.
-* [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
-* [@arcbtc's TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DIY ATM machine that eats coins and spits out sats.
+* [Azteco](https://azte.co/) &ndash; Bitcoin vouchers in physical stores over the world.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 * [Bitcoin Bounce](https://thndr.games/) &ndash; Play for free and win satoshi prizes. **lnurl** is the only way to redeem.
 * [Bleskomat](https://github.com/samotari/bleskomat) &ndash; The offline Lightning Network ATM - device source code, lnurl server implementation, and build instructions included.
 * [coinos](https://coinos.io/) &ndash; Allows you to issue **lnurl** vouchers.
+* [Infuse](https://zebedee.io/infuse/) &ndash; The sats gaming companion app with Counter-Strike.
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
 * [LNURLProxyAPI](https://github.com/21isenough/LNURLProxyAPI) &ndash; Allows you to issue noncustodial **lnurls** from your own home node. Like lightning.gifts, but noncustodial.
+* [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
 * [LightningCashback](https://twitter.com/21isenough/status/1193631492603293698) &ndash; A POS system that prints **lnurl** QR codes containing your change in receipts (fiat onramp?).
-* [LNbits](https://lnbits.org/) &ndash; The LNURLw plugin allows anyone to generate **lnurl** vouchers.
+* [LNbits](https://lnbits.org/) &ndash; The _LNURLw_ plugin allows anyone to generate **lnurl** vouchers.
 * [Rewards to Bitcoin](https://play.google.com/store/apps/details?id=com.pseudozach.rewardstobitcoin) &ndash; Android app that lets you cash out Play Store balance with **lnurl**
 * [Surfcity Parking](https://surfcity.app/) &ndash; Surfcity lets you find and share parking spaces in residential areas. Pay with credit/debit card or BTC Lightning for your booking. Parking space owners can opt to withdraw anytime to their Lightning wallet through **lnurl** or use SEPA (EUR, CZK, GBP) monthly payouts.
+* [@arcbtc's TheFossa](https://twitter.com/BTCSocialist/status/1176206194333147136) &ndash; A DIY ATM machine that eats coins and spits out sats.
 * [ZEBEDEE](https://documentation.zebedee.io/) &ndash; The REST API for game developers and [Unity SDK](https://github.com/zebedeeio/unity-sdk) automatically generates **lnurl** links that allow players to easily withdraw sats from the game.
 
 ### lnurl-channel
 
 * [bifrost](https://github.com/takinbo/bifrost) &ndash; A self-hosted **lnurl**-powered invite-based channel-opening service.
 * [Bitrefill's Thor](https://www.bitrefill.com/thor) &ndash; Buy a reliable incoming channel from this super liquid node, or get a turbo channel from which you can spend immediately.
-* [LNBIG](https://lnbig.com/) &ndash; Get free inbound channels on your mobile wallet from this mysterious entity.
+* [LNBIG](https://lnbig.com/) &ndash; Get inbound channels on your mobile wallet from this mysterious entity.
 * [lnch-vekslak](https://github.com/Kixunil/lnch-vekslak) &ndash; Your self-hosted Thor. Allows you to sell or open channels with people in the streets (make sure to read and edit the code before using or you'll pay a high price).
 
 
