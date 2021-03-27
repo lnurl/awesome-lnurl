@@ -62,12 +62,12 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * A big collection of services allow you to withdraw your balances with **lnurl**: [HangarSix Warzone Tournaments](https://www.hangarsixgaming.com/), [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/), [LNMarkets](https://lnmarkets.com/), [Stekking](https://stekking.com), [Microlancer](https://microlancer.io/).
 * And also exchanges: [GraafOne](https://www.graaf.one/) on Canada and [SouthXchange](https://www.southxchange.com/) on Argentina.
-* [Azteco](https://azte.co/) &ndash; Bitcoin vouchers in physical stores over the world.
+* [Azteco](https://azte.co/) &ndash; Bitcoin vouchers with [**lnurl** QR codes printed](https://i.imgur.com/blrBidT.jpg) in them.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 * [Bitcoin Bounce](https://thndr.games/) &ndash; Play for free and win satoshi prizes. **lnurl** is the only way to redeem.
 * [Bleskomat](https://github.com/samotari/bleskomat) &ndash; The offline Lightning Network ATM - device source code, lnurl server implementation, and build instructions included.
 * [coinos](https://coinos.io/) &ndash; Allows you to issue **lnurl** vouchers.
-* [Infuse](https://zebedee.io/infuse/) &ndash; The sats gaming companion app with Counter-Strike.
+* [Infuse](https://zebedee.io/infuse/) &ndash; Withdraw your Counter-Strike earnings with **lnurl**.
 * [LNPay.co](https://lnpay.co) &ndash; Provides static **lnurl** rechargeable faucets you can print, email or easily embed!
 * [LNURLProxyAPI](https://github.com/21isenough/LNURLProxyAPI) &ndash; Allows you to issue noncustodial **lnurls** from your own home node. Like lightning.gifts, but noncustodial.
 * [@21isenough's LightningATM](https://twitter.com/21isenough/status/1194963700110770176) &ndash; A DIY ATM machine that eats coins and spits out sats.
