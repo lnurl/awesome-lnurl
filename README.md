@@ -100,7 +100,7 @@ _Some wallets that support **lnurl**_.
 | [coinos](https://coinos.io/)                                      |           | ☑️        | ☑️     | ☑️     | ☑️       |
 | [LNbits](https://lnbits.org/)                                     | ☑️         | ☑️        | ☑️ 💬  |       |         |
 | [@lntxbot](https://t.me/lntxbot)                                  | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
-| [Phoenix](https://phoenix.acinq.co/)                              | ☑️         | ☑️        |       | ☑️     |         |
+| [Phoenix](https://phoenix.acinq.co/)                              | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
 | [Shockwallet](https://shockwallet.app/)                           | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [ThunderHub](https://github.com/apotdevin/thunderhub)             |           | ☑️        | ☑️ 💬  | ☑️     |         |
 | [Wallet of Satoshi](https://www.walletofsatoshi.com/)             | ☑️         | ☑️        | ☑️     |       |         |
