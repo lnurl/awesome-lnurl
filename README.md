@@ -51,9 +51,10 @@ _Apps and services supporting **lnurl** in the wild_.
 ### lnurl-auth
 
 * [coinos](https://coinos.io/) &ndash; Allows you to add multiple _linking keys_ to the same account.
+* [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a login option.
+* [Loft](https://loft.trade/) &ndash; **lnurl** is a login option..
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
 * [ilno](https://github.com/fiatjaf/ilno) &ndash; A light, self-hosted embeddable comments server similar to Disqus/Isso with **lnurl** user logins.
-* [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a private login option.
 * [lnshort.it](https://lnshort.it/) &ndash; The only supported login method is **lnurl**.
 * [Rewards to Bitcoin](https://play.google.com/store/apps/details?id=com.pseudozach.rewardstobitcoin) &ndash; Backup/Restore your anonymous user account with **lnurl**.
 * [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with **lnurl** Instead of manually saving your key.
