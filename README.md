@@ -103,6 +103,7 @@ _Some wallets that support **lnurl**_.
 | [coinos](https://coinos.io/)                                      |           | ☑️        | ☑️     | ☑️     | ☑️       |
 | [LNbits](https://lnbits.org/)                                     | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
 | [@lntxbot](https://t.me/lntxbot)                                  | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
+| [Muun](https://muun.com/)                                         |            | ☑️        |        |        |         |
 | [Phoenix](https://phoenix.acinq.co/)                              | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
 | [Shockwallet](https://shockwallet.app/)                           | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [ThunderHub](https://github.com/apotdevin/thunderhub)             |           | ☑️        | ☑️ 💬  | ☑️     |         |
