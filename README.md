@@ -12,7 +12,7 @@ A curated list of awesome things related to the **lnurl** super-protocol for int
   * [Contribute](#contribute)
   * [License](#license)
 
-----
+-----
 
 
 Documentation
