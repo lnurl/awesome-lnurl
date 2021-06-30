@@ -60,6 +60,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [coinos](https://coinos.io/) &ndash; Allows you to add multiple _linking keys_ to the same account.
 * [ilno](https://github.com/fiatjaf/ilno) &ndash; A light, self-hosted embeddable comments server similar to Disqus/Isso with **lnurl** user logins.
 * [lnshort.it](https://lnshort.it/) &ndash; The only supported login method is **lnurl**.
+* [stacker.news](https://stacker.news/) &ndash; **lnurl** is a login option.
 
 ### lnurl-withdraw
 
