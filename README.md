@@ -99,7 +99,7 @@ _Some wallets that support **lnurl**_.
 | ---:                                                              | :---:     | :---:    | :---  | :---: | :---:   |
 | [BLW](https://lightning-wallet.com/)                              | ☑️         | ☑️        | ☑️     | ☑️     | ☑️       |
 | [Blixt](https://github.com/hsjoberg/blixt-wallet)                 | ☑️         | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
-| [BlueWallet](https://bluewallet.io/)                              | ☑️         | ☑️        | ☑️     | ☑️     |         |
+| [BlueWallet](https://bluewallet.io/)                              | ☑️         | ☑️        | ☑️     |        |         |
 | [Breez](https://breez.technology/)                                | ☑️         | ☑️        |       | ☑️     | ☑️       |
 | [coinos](https://coinos.io/)                                      |           | ☑️        | ☑️     | ☑️     | ☑️       |
 | [LNbits](https://lnbits.org/)                                     | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
@@ -112,7 +112,7 @@ _Some wallets that support **lnurl**_.
 | [Zap-Android](https://www.zaphq.io/)                              | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [Zap-iOS](https://www.zaphq.io/)                                  |           | ☑️        | ☑️     |       | ☑️       |
 | [ZEBEDEE](https://zbd.gg) (and [bots](https://zebedee.io/bots/))  | ☑️         | ☑️        | ☑️ 💬  |       |         |
-| [Zeus](https://github.com/ZeusLN/zeus)                            | ☑️         | ☑️        | ☑️ 💬  |       |         |
+| [Zeus](https://github.com/ZeusLN/zeus)                            | ☑️         | ☑️        | ☑️ 💬  |       | ☑️      |
 
 
 Libraries
