@@ -37,26 +37,30 @@ _Apps and services supporting **lnurl** in the wild_.
 
 * [Bitrefill](https://bitrefill.com/) &ndash; Allows funding your account with **lnurl**.
 * [Blixt's lnurl-pay chat](https://chat.blixtwallet.com/) &ndash; A simple chat you have to pay 10 satoshis to send an anonymous message directly from your wallet (the interface is just a QR code) as a proof-of-concept for lnurl-pay comments.
+- [DJ Livestream](https://github.com/lnbits/lnbits/tree/master/lnbits/extensions/livestream) &ndash; Returns a single **lnurl** QR code that changes description and behavior with each track, splits payments between producers of the current track and the DJ, allows track download URLs to be bought.
 * [Etleneum](https://etleneum.com/) &ndash; For all reusable method calls, with or without a fixed number of satoshis in them, you can grab an **lnurl** at the main contract page and replay it from your wallet later.
+* [LNURLp](https://github.com/lnbits/lnbits/blob/master/lnbits/extensions/lnurlp) &ndash; Allows anyone to generate **lnurl** payment codes and dispatch webhooks whenever a new payment comes in.
 * [Lightning Gifts](https://lightning.gifts/) &ndash; Create gifts without leaving your wallet by playing and replaying the basic gift **lnurl**.
-* [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
-* [lnshort.it](https://lnshort.it/) &ndash; Allows you to pay for redirects and fund your account balance with an **lnurl**.
 * [NextPay](https://github.com/apotdevin/NextPay) &ndash; A personal **lnurl** tipping server you can deploy freely and easily and it will talk to your LND node.
+* [OfflineShop](https://github.com/lnbits/lnbits/blob/master/lnbits/extensions/offlineshop) &ndash; Allows small shops to sell goods for Bitcoin without needing any electronic device.
 * [coinos](https://coinos.io/) &ndash; Allows you to fund your account with an **lnurl**.
-* [LNbits](https://lnbits.org/) &ndash; The _LNURLp_ plugin allows anyone to generate **lnurl** payment codes and dispatch webhooks whenever a new payment comes in; and the _OfflineShop_ plugin allows small shops to sell goods for Bitcoin without needing any electronic device.
+* [lnshort.it](https://lnshort.it/) &ndash; Allows you to pay for redirects and fund your account balance with an **lnurl**.
 * [lntorub](https://vds.sw4me.com/rulnurl/)	&ndash; Build reusable URLs that allow you to recharge Russian transport tickets, phones, send money to Russian debit cards and recharge Skype globally.
+* [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
-* [zbd.gg](https://zbd.gg/) &ndash; Static **lnurl pay** QR codes for users of ZEBEDEE Wallet to accept payments and messages.
+* [zbd.gg](https://zbd.gg/) &ndash; Static **lnurl** QR codes for users of ZEBEDEE Wallet to accept payments and messages.
 
 ### lnurl-auth
 
-* [coinos](https://coinos.io/) &ndash; Allows you to add multiple _linking keys_ to the same account.
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
-* [ilno](https://github.com/fiatjaf/ilno) &ndash; A light, self-hosted embeddable comments server similar to Disqus/Isso with **lnurl** user logins.
-* [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a private login option.
-* [lnshort.it](https://lnshort.it/) &ndash; The only supported login method is **lnurl**.
+* [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a login option.
+* [Loft](https://loft.trade/) &ndash; **lnurl** is a login option..
 * [Rewards to Bitcoin](https://play.google.com/store/apps/details?id=com.pseudozach.rewardstobitcoin) &ndash; Backup/Restore your anonymous user account with **lnurl**.
 * [Wheel of Fortune](https://fortune.lngames.net) &ndash; Login with **lnurl** Instead of manually saving your key.
+* [coinos](https://coinos.io/) &ndash; Allows you to add multiple _linking keys_ to the same account.
+* [ilno](https://github.com/fiatjaf/ilno) &ndash; A light, self-hosted embeddable comments server similar to Disqus/Isso with **lnurl** user logins.
+* [lnshort.it](https://lnshort.it/) &ndash; The only supported login method is **lnurl**.
+* [stacker.news](https://stacker.news/) &ndash; **lnurl** is a login option.
 
 ### lnurl-withdraw
 
@@ -103,7 +107,7 @@ _Some wallets that support **lnurl**_.
 | [Muun](https://muun.com/)                                         |            | ☑️        |        |        |         |
 | [Phoenix](https://phoenix.acinq.co/)                              | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
 | [Shockwallet](https://shockwallet.app/)                           | ☑️         | ☑️        | ☑️     |       | ☑️       |
-| [ThunderHub](https://github.com/apotdevin/thunderhub)             |           | ☑️        | ☑️ 💬  | ☑️     |         |
+| [ThunderHub](https://github.com/apotdevin/thunderhub)             |           | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
 | [Wallet of Satoshi](https://www.walletofsatoshi.com/)             | ☑️         | ☑️        | ☑️     |       |         |
 | [Zap-Android](https://www.zaphq.io/)                              | ☑️         | ☑️        | ☑️     |       | ☑️       |
 | [Zap-iOS](https://www.zaphq.io/)                                  |           | ☑️        | ☑️     |       | ☑️       |
