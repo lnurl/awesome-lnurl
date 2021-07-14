@@ -52,6 +52,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-auth
 
+* [Kollider](https://kollider.xyz/) &ndash; **lnurl** is a login option.
 * [Etleneum](https://etleneum.com/) &ndash; The only supported login method is **lnurl**.
 * [LNMarkets](https://lnmarkets.com/) &ndash; **lnurl** is a login option.
 * [Loft](https://loft.trade/) &ndash; **lnurl** is a login option..
@@ -64,7 +65,7 @@ _Apps and services supporting **lnurl** in the wild_.
 
 ### lnurl-withdraw
 
-* A big collection of services allow you to withdraw your balances with **lnurl**: [HangarSix Warzone Tournaments](https://www.hangarsixgaming.com/), [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/), [LNMarkets](https://lnmarkets.com/), [Stekking](https://stekking.com), [Microlancer](https://microlancer.io/).
+* A big collection of services allow you to withdraw your balances with **lnurl**: [Kollider](https://kollider.xyz/), [HangarSix Warzone Tournaments](https://www.hangarsixgaming.com/), [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/), [LNMarkets](https://lnmarkets.com/), [Stekking](https://stekking.com), [Microlancer](https://microlancer.io/).
 * And also exchanges: [GraafOne](https://www.graaf.one/) on Canada and [SouthXchange](https://www.southxchange.com/) on Argentina.
 * [Azteco](https://azte.co/) &ndash; Bitcoin vouchers with [**lnurl** QR codes printed](https://i.imgur.com/blrBidT.jpg) in them.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
