@@ -101,7 +101,7 @@ _Some wallets that support **lnurl**_.
 | [BLW](https://lightning-wallet.com/)                              | ☑️         | ☑️        | ☑️     | ☑️     | ☑️       |
 | [Blixt](https://github.com/hsjoberg/blixt-wallet)                 | ☑️         | ☑️        | ☑️ 💬  | ☑️     | ☑️       |
 | [BlueWallet](https://bluewallet.io/)                              | ☑️         | ☑️        | ☑️     |       |         |
-| [Breez](https://breez.technology/)                                | ☑️         | ☑️        |       | ☑️     | ☑️       |
+| [Breez](https://breez.technology/)                                | ☑️         | ☑️        | ☑️     | ☑️     | ☑️       |
 | [coinos](https://coinos.io/)                                      |           | ☑️        | ☑️     | ☑️     | ☑️       |
 | [LNbits](https://lnbits.org/)                                     | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
 | [@lntxbot](https://t.me/lntxbot)                                  | ☑️         | ☑️        | ☑️ 💬  | ☑️     |         |
