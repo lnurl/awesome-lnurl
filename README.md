@@ -68,6 +68,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * A big collection of services allow you to withdraw your balances with **lnurl**: [Kollider](https://kollider.xyz/), [HangarSix Warzone Tournaments](https://www.hangarsixgaming.com/), [Etleneum](https://etleneum.com/), [Paywall](https://paywall.link), [Kriptode](https://kriptode.com/), [lngames.net](https://lngames.net/), [LightningScratchAnd.win](https://lightningscratchand.win/), [Lightning Gifts](https://lightning.gifts/), [LNMarkets](https://lnmarkets.com/), [Stekking](https://stekking.com), [Microlancer](https://microlancer.io/).
 * And also exchanges: [GraafOne](https://www.graaf.one/) on Canada and [SouthXchange](https://www.southxchange.com/) on Argentina.
 * [Azteco](https://azte.co/) &ndash; Bitcoin vouchers with [**lnurl** QR codes printed](https://i.imgur.com/blrBidT.jpg) in them.
+* [Flitz](https://getflitz.app/) &ndash; European Lightning-only DCA platform / Bitcoin broker.
 * [@lntxbot](https://t.me/lntxbot) &ndash; You can extract your balance from the Telegram bot to another wallet with **lnurl**, or even share withdraw codes so you can physically pay friends.
 * [Bitcoin Bounce](https://thndr.games/) &ndash; Play for free and win satoshi prizes. **lnurl** is the only way to redeem.
 * [Bleskomat](https://github.com/samotari/bleskomat) &ndash; The offline Lightning Network ATM - device source code, lnurl server implementation, and build instructions included.
