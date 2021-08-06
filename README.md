@@ -144,6 +144,7 @@ _Stuff for learning, using and playing with **lnurl**_.
 
 * [lnurl-toolbox](https://lnurl-toolbox.degreesofzero.com/) &ndash; A web interface with tools for testing and integrating **lnurl**.
 * [Lightning Decoder](https://lightningdecoder.com/) &ndash; A nice clean UI for decoding Lightning invoices and **lnurls**.
+* [Lightning Login](https://lightninglogin.live/) &ndash; A simple one page login tool that lets you test out LNURL-auth.
 * [lnurl codec](https://lnurl.bigsun.xyz/codec) &ndash; The most simple **lnurl** encoder/decoder.
 * [lnurl playground](https://lnurl.bigsun.xyz/) &ndash; A simple tool that allows you to try and see how your wallet interacts with an **lnurl** server.
 * [SeedAuth](https://seedauth.etleneum.com/) &ndash; A JS app that allows you to login to **lnurl-auth** services using just a username and password.
