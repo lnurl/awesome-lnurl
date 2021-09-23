@@ -49,6 +49,7 @@ _Apps and services supporting **lnurl** in the wild_.
 * [@lntxbot](https://t.me/lntxbot) &ndash; `https://lntxbot.bigsun.xyz/@telegramusername` allows you to send money to anyone using a fixed **lnurl**. It can be printed and shared at will. It's basically an old-style address.
 * [tip.bigsun.xyz](https://tip.bigsun.xyz) &ndash; Static donation **lnurls** that send money directly to your node, noncustodially. Ideal for street musicians.
 * [zbd.gg](https://zbd.gg/) &ndash; Static **lnurl** QR codes for users of ZEBEDEE Wallet to accept payments and messages.
+* [pollofeed](https://pollofeed.com) &ndash; Feed chickens
 
 ### lnurl-auth
 
