@@ -4,12 +4,12 @@ Awesome lnurl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d2
 A curated list of awesome images and videos of [LNURL](https://github.com/fiatjaf/lnurl-rfc) being used in the wild!
 
 - [List of supporting wallets](https://github.com/fiatjaf/lnurl-rfc#lnurl-documents)
-- [List of services, libraries and development tools](https://github.com/fiatjaf/lnurl-rfc/blob/luds/SERVICES.md)
+- [List of services, libraries and development tools](https://github.com/fiatjaf/lnurl-rfc#services)
 
 Things
 ======
 
-- [Bleskomat ATM](https://www.bleskomat.com) 
+- [Bleskomat ATM](https://www.bleskomat.com)
 
 https://user-images.githubusercontent.com/1653275/136722126-59d17d77-3d00-4a32-be2b-845abf50a011.mp4
 
