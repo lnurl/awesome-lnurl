@@ -9,6 +9,10 @@ A curated list of awesome images and videos of [LNURL](https://github.com/fiatja
 Things
 ======
 
+- [Impromptu shop on a hotel lobby](https://twitter.com/arcbtc/status/1459930640665751559/photo/1)
+
+![](impromptu-shop.png)
+
 - [Bleskomat ATM](https://www.bleskomat.com)
 
 https://user-images.githubusercontent.com/1653275/136722126-59d17d77-3d00-4a32-be2b-845abf50a011.mp4
