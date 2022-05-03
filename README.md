@@ -9,6 +9,30 @@ A curated list of awesome images and videos of [LNURL](https://github.com/fiatja
 Things
 ======
 
+- [In-person NFC donations](https://twitter.com/thedavidcoen/status/1520765774465536007)
+
+https://user-images.githubusercontent.com/1653275/166478675-b689705d-418d-41f1-b589-d9b7f2e9ea21.mp4
+
+- [Automatic beer refill from a static QR code](https://twitter.com/callebtc/status/1497331706164129797)
+
+https://user-images.githubusercontent.com/1653275/166478170-d3a41fb7-7aca-4a2c-b1f1-eeff6487174a.mp4
+
+- [Offline machine that sells glasses](https://twitter.com/MadBitcoins/status/1512527743715627011)
+
+![](https://pbs.twimg.com/media/FP2T9pMX0AAiDpR?format=jpg&name=large)
+
+- [Printed QR for instant shirt sales](https://twitter.com/Dennis_Porter_/status/1508579497850773506)
+
+https://user-images.githubusercontent.com/1653275/166477769-fae710e6-7fed-40f2-a5b3-d89f7178bc24.mp4
+
+- [Shop in rural South Africa](https://twitter.com/Printer_Gobrrr/status/1506547369957117957)
+
+https://user-images.githubusercontent.com/1653275/166477530-63653087-dd5e-4843-ab64-79cfcb339fcf.mp4
+
+- [Azteco Vouchers](https://twitter.com/r0ckstardev/status/1500238620094963712/photo/1)
+
+![](https://pbs.twimg.com/media/FNHrEgRUUAAXMgL?format=jpg&name=large)
+
 - [Impromptu shop on a hotel lobby](https://twitter.com/arcbtc/status/1459930640665751559/photo/1)
 
 ![](impromptu-shop.png)
@@ -55,6 +79,9 @@ https://user-images.githubusercontent.com/1653275/136722227-85fa595e-2633-4ce1-a
 
 https://user-images.githubusercontent.com/1653275/136722241-ea2af68b-6e1f-4bf4-8960-89f1d9989d1f.mp4
 
+- ["StackSats Magnets" that accumulate sats and then send to a Bitcoin address](https://twitter.com/talvasconcelos/status/1288767126950608896)
+
+https://user-images.githubusercontent.com/1653275/166476942-ce7cb562-3904-4819-a380-8611ea80141d.mp4
 
 Contribute
 ------------------------------------------------------------------------
