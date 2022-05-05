@@ -9,6 +9,10 @@ A curated list of awesome images and videos of [LNURL](https://github.com/fiatja
 Things
 ======
 
+- [Trigger anything with a QR code](https://twitter.com/arcbtc/status/1521976529588305921)
+
+https://user-images.githubusercontent.com/1653275/166850977-67658c07-5bf2-4c05-b6e8-5e4adccf283e.mp4
+
 - [In-person NFC donations](https://twitter.com/thedavidcoen/status/1520765774465536007)
 
 https://user-images.githubusercontent.com/1653275/166478675-b689705d-418d-41f1-b589-d9b7f2e9ea21.mp4
