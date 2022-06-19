@@ -9,6 +9,10 @@ A curated list of awesome images and videos of [LNURL](https://github.com/fiatja
 Things
 ======
 
+- [Pay a printed QR to move a physical train](https://twitter.com/satoshkey/status/1538508657910226944)
+
+https://user-images.githubusercontent.com/106029426/174483989-cb0b4e67-81ac-4bf6-98a3-8e9bd9bf2f85.mp4
+
 - [Trigger anything with a QR code](https://twitter.com/arcbtc/status/1521976529588305921)
 
 https://user-images.githubusercontent.com/1653275/166850977-67658c07-5bf2-4c05-b6e8-5e4adccf283e.mp4
