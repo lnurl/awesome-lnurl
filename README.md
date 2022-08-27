@@ -91,6 +91,12 @@ https://user-images.githubusercontent.com/1653275/136722241-ea2af68b-6e1f-4bf4-8
 
 https://user-images.githubusercontent.com/1653275/166476942-ce7cb562-3904-4819-a380-8611ea80141d.mp4
 
+
+- ["BTCPay POS wiht NFC card" Our kids demonstrate how NFC payment works with Ligthning](https://twitter.com/f418_me/status/1554199913591881728)
+
+https://user-images.githubusercontent.com/13664813/187039313-bdae53d3-3204-4fc1-8866-3798a4c72a36.mp4
+
+
 Contribute
 ------------------------------------------------------------------------
 
