@@ -96,6 +96,11 @@ https://user-images.githubusercontent.com/1653275/166476942-ce7cb562-3904-4819-a
 
 https://user-images.githubusercontent.com/13664813/187039313-bdae53d3-3204-4fc1-8866-3798a4c72a36.mp4
 
+- [Payment of a Bitcoin Lightning invoice without a cell phone, without an NFC card, just by hand](https://twitter.com/f418_me/status/1602743553461043203)
+
+https://user-images.githubusercontent.com/13664813/187039313-bdae53d3-3204-4fc1-8866-3798a4c72a36.mp4
+
+
 
 Contribute
 ------------------------------------------------------------------------
