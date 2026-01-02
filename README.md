@@ -9,6 +9,10 @@ A curated list of awesome images and videos of [LNURL](https://github.com/fiatja
 Things
 ======
 
+- [Trigger a fully offline switch with a payment and a code](https://ereignishorizont.xyz/en/offlinelnswitch_en/)
+
+https://github.com/user-attachments/assets/6063a97e-43f6-40f5-8106-85d4cf6c0482
+
 - [Pay a printed QR to move a physical train](https://twitter.com/satoshkey/status/1538508657910226944)
 
 https://user-images.githubusercontent.com/106029426/174483989-cb0b4e67-81ac-4bf6-98a3-8e9bd9bf2f85.mp4
